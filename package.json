@@ -1,0 +1,34 @@
+{
+  "name": "agentmeasure",
+  "version": "0.1.0",
+  "description": "Measure the real error rate of a shipped classifier: stratified sampling, Wilson intervals, self-label leak detection. Zero-dependency CLI.",
+  "type": "module",
+  "bin": {
+    "agentmeasure": "./src/cli.mjs"
+  },
+  "files": [
+    "src",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "start": "node src/cli.mjs score demo/labeled.csv",
+    "demo": "node demo/demo.mjs",
+    "make-demo": "node tools/make-demo.mjs",
+    "test": "node --test"
+  },
+  "keywords": [
+    "ai",
+    "agent",
+    "evaluation",
+    "accuracy",
+    "confidence-interval",
+    "sampling",
+    "cli"
+  ],
+  "license": "MIT",
+  "author": "Xiao-KL"
+}

@@ -1,0 +1,61 @@
+id,ts,predicted,confidence,stored_label,label_source,input,human_label
+d-0001,2026-10-19T00:00:00Z,account,0.94,account,model,换了手机号，验证码收不到（工单 #1200）,account
+d-0002,2026-10-19T00:07:00Z,billing,0.93,billing,model,订阅扣了两次款，问什么时候退（工单 #1201）,billing
+d-0006,2026-10-19T00:35:00Z,bug,0.68,bug,model,导出 CSV 后中文全是问号（工单 #1205）,bug
+d-0009,2026-10-19T00:56:00Z,spam,0.74,spam,model,点击链接领取 500 元红包（工单 #1208）,spam
+d-0010,2026-10-19T01:03:00Z,spam,0.91,spam,model,合作吗？我们有 10 万粉丝（工单 #1209）,
+d-0015,2026-10-19T01:38:00Z,bug,0.67,bug,model,合作吗？我们有 10 万粉丝（工单 #1214）,spam
+d-0018,2026-10-19T01:59:00Z,billing,0.7,billing,model,账单显示升级了套餐但我没点过（工单 #1217）,billing
+d-0019,2026-10-19T02:06:00Z,account,0.56,account,model,想把月付改成按年付，差价怎么算（工单 #1218）,billing
+d-0021,2026-10-19T02:20:00Z,spam,0.72,spam,model,换了手机号，验证码收不到（工单 #1220）,account
+d-0022,2026-10-19T02:27:00Z,refund,0.79,refund,model,登录后一直转圈，进不去工作台（工单 #1221）,bug
+d-0024,2026-10-19T02:41:00Z,spam,0.62,bug,human,手机上图片加载不出来（工单 #1223）,bug
+d-0028,2026-10-19T03:09:00Z,spam,0.78,spam,model,我们提供 SEO 排名服务（工单 #1227）,spam
+d-0033,2026-10-19T03:44:00Z,spam,0.76,spam,model,退款金额比订单少了 20 元（工单 #1232）,refund
+d-0045,2026-10-19T05:08:00Z,billing,0.74,billing,model,发票抬头写错了，需要重开（工单 #1244）,
+d-0048,2026-10-19T05:29:00Z,account,0.86,account,model,登录提示账号停用，但我没操作过（工单 #1247）,account
+d-0057,2026-10-19T06:32:00Z,billing,0.86,billing,model,订阅扣了两次款，问什么时候退（工单 #1256）,billing
+d-0058,2026-10-19T06:39:00Z,refund,0.9,refund,model,退款金额比订单少了 20 元（工单 #1257）,refund
+d-0067,2026-10-19T07:42:00Z,spam,0.9,spam,model,低价代开发票，当天出票（工单 #1266）,spam
+d-0069,2026-10-19T07:56:00Z,account,0.91,account,model,想合并两个账号的数据（工单 #1268）,account
+d-0071,2026-10-19T08:10:00Z,refund,0.79,refund,model,收到货是坏的，申请退款（工单 #1270）,refund
+d-0072,2026-10-19T08:17:00Z,bug,0.84,bug,model,登录后一直转圈，进不去工作台（工单 #1271）,bug
+d-0073,2026-10-19T08:24:00Z,billing,0.95,billing,model,账单显示升级了套餐但我没点过（工单 #1272）,billing
+d-0074,2026-10-19T08:31:00Z,account,0.68,account,human,想合并两个账号的数据（工单 #1273）,
+d-0078,2026-10-19T08:59:00Z,spam,0.66,spam,model,我们提供 SEO 排名服务（工单 #1277）,spam
+d-0080,2026-10-19T09:13:00Z,account,0.86,account,model,两步验证的备用码丢了（工单 #1279）,account
+d-0081,2026-10-19T09:20:00Z,billing,0.89,billing,model,客户说发票金额对不上，要求重开一张（工单 #1280）,billing
+d-0084,2026-10-19T09:41:00Z,spam,0.95,spam,human,点击链接领取 500 元红包（工单 #1283）,spam
+d-0085,2026-10-19T09:48:00Z,refund,0.94,refund,model,说好 7 天无理由，现在不给退（工单 #1284）,refund
+d-0088,2026-10-19T10:09:00Z,billing,0.7,billing,model,账单显示升级了套餐但我没点过（工单 #1287）,billing
+d-0090,2026-10-19T10:23:00Z,bug,0.94,bug,model,搜索框输入后页面白屏（工单 #1289）,bug
+d-0095,2026-10-19T10:58:00Z,bug,0.93,bug,model,搜索框输入后页面白屏（工单 #1294）,bug
+d-0096,2026-10-19T11:05:00Z,spam,0.81,spam,model,加微信领取免费课程（工单 #1295）,
+d-0102,2026-10-19T11:47:00Z,billing,0.92,billing,model,订阅扣了两次款，问什么时候退（工单 #1301）,billing
+d-0113,2026-10-19T13:04:00Z,refund,0.53,refund,model,登录提示账号停用，但我没操作过（工单 #1312）,account
+d-0116,2026-10-19T13:25:00Z,refund,0.78,refund,model,收到货是坏的，申请退款（工单 #1315）,refund
+d-0125,2026-10-19T14:28:00Z,refund,0.63,refund,model,说好 7 天无理由，现在不给退（工单 #1324）,refund
+d-0128,2026-10-19T14:49:00Z,bug,0.75,bug,model,保存草稿按钮点了没反应（工单 #1327）,bug
+d-0129,2026-10-19T14:56:00Z,bug,0.63,bug,model,想合并两个账号的数据（工单 #1328）,account
+d-0138,2026-10-19T15:59:00Z,bug,0.88,bug,model,保存草稿按钮点了没反应（工单 #1337）,bug
+d-0145,2026-10-19T16:48:00Z,billing,0.63,billing,model,发票抬头写错了，需要重开（工单 #1344）,billing
+d-0146,2026-10-19T16:55:00Z,billing,0.71,billing,model,客户说发票金额对不上，要求重开一张（工单 #1345）,
+d-0147,2026-10-19T17:02:00Z,refund,0.62,refund,model,订单取消三天了还没退款到账（工单 #1346）,refund
+d-0150,2026-10-19T17:23:00Z,spam,0.69,spam,model,合作吗？我们有 10 万粉丝（工单 #1349）,spam
+d-0151,2026-10-19T17:30:00Z,bug,0.88,bug,model,导出 CSV 后中文全是问号（工单 #1350）,bug
+d-0157,2026-10-19T18:12:00Z,bug,0.75,bug,model,登录后一直转圈，进不去工作台（工单 #1356）,bug
+d-0164,2026-10-19T19:01:00Z,spam,0.75,spam,human,点击链接领取 500 元红包（工单 #1363）,spam
+d-0165,2026-10-19T19:08:00Z,bug,0.67,bug,model,搜索框输入后页面白屏（工单 #1364）,bug
+d-0170,2026-10-19T19:43:00Z,billing,0.59,billing,model,搜索框输入后页面白屏（工单 #1369）,bug
+d-0174,2026-10-19T20:11:00Z,billing,0.89,billing,human,想把月付改成按年付，差价怎么算（工单 #1373）,billing
+d-0176,2026-10-19T20:25:00Z,bug,0.72,bug,model,收到货是坏的，申请退款（工单 #1375）,
+d-0178,2026-10-19T20:39:00Z,account,0.98,account,model,登录提示账号停用，但我没操作过（工单 #1377）,account
+d-0180,2026-10-19T20:53:00Z,account,0.83,account,model,两步验证的备用码丢了（工单 #1379）,account
+d-0181,2026-10-19T21:00:00Z,billing,0.7,billing,model,客户说发票金额对不上，要求重开一张（工单 #1380）,billing
+d-0182,2026-10-19T21:07:00Z,account,0.87,account,model,低价代开发票，当天出票（工单 #1381）,spam
+d-0183,2026-10-19T21:14:00Z,bug,0.84,bug,model,账单显示升级了套餐但我没点过（工单 #1382）,billing
+d-0186,2026-10-19T21:35:00Z,billing,0.72,billing,model,客户说发票金额对不上，要求重开一张（工单 #1385）,billing
+d-0189,2026-10-19T21:56:00Z,bug,0.92,bug,model,手机上图片加载不出来（工单 #1388）,bug
+d-0191,2026-10-19T22:10:00Z,billing,0.95,billing,model,客户说发票金额对不上，要求重开一张（工单 #1390）,billing
+d-0198,2026-10-19T22:59:00Z,billing,0.65,billing,model,账单显示升级了套餐但我没点过（工单 #1397）,billing
+d-0200,2026-10-19T23:13:00Z,refund,0.55,refund,model,合作吗？我们有 10 万粉丝（工单 #1399）,spam

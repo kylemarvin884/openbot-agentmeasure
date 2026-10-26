@@ -1,0 +1,200 @@
+{"id":"d-0001","ts":"2026-10-19T00:00:00Z","input":"换了手机号，验证码收不到（工单 #1200）","predicted":"account","confidence":0.94,"stored_label":"account","label_source":"model"}
+{"id":"d-0002","ts":"2026-10-19T00:07:00Z","input":"订阅扣了两次款，问什么时候退（工单 #1201）","predicted":"billing","confidence":0.93,"stored_label":"billing","label_source":"model"}
+{"id":"d-0003","ts":"2026-10-19T00:14:00Z","input":"保存草稿按钮点了没反应（工单 #1202）","predicted":"bug","confidence":0.67,"stored_label":"bug","label_source":"model"}
+{"id":"d-0004","ts":"2026-10-19T00:21:00Z","input":"想合并两个账号的数据（工单 #1203）","predicted":"spam","confidence":0.82,"stored_label":"account","label_source":"human"}
+{"id":"d-0005","ts":"2026-10-19T00:28:00Z","input":"两步验证的备用码丢了（工单 #1204）","predicted":"account","confidence":0.8,"stored_label":"account","label_source":"model"}
+{"id":"d-0006","ts":"2026-10-19T00:35:00Z","input":"导出 CSV 后中文全是问号（工单 #1205）","predicted":"bug","confidence":0.68,"stored_label":"bug","label_source":"model"}
+{"id":"d-0007","ts":"2026-10-19T00:42:00Z","input":"订阅扣了两次款，问什么时候退（工单 #1206）","predicted":"billing","confidence":0.87,"stored_label":"billing","label_source":"model"}
+{"id":"d-0008","ts":"2026-10-19T00:49:00Z","input":"账单显示升级了套餐但我没点过（工单 #1207）","predicted":"billing","confidence":0.86,"stored_label":"billing","label_source":"model"}
+{"id":"d-0009","ts":"2026-10-19T00:56:00Z","input":"点击链接领取 500 元红包（工单 #1208）","predicted":"spam","confidence":0.74,"stored_label":"spam","label_source":"model"}
+{"id":"d-0010","ts":"2026-10-19T01:03:00Z","input":"合作吗？我们有 10 万粉丝（工单 #1209）","predicted":"spam","confidence":0.91,"stored_label":"spam","label_source":"model"}
+{"id":"d-0011","ts":"2026-10-19T01:10:00Z","input":"导出 CSV 后中文全是问号（工单 #1210）","predicted":"bug","confidence":0.74,"stored_label":"bug","label_source":"model"}
+{"id":"d-0012","ts":"2026-10-19T01:17:00Z","input":"订单取消三天了还没退款到账（工单 #1211）","predicted":"refund","confidence":0.63,"stored_label":"refund","label_source":"model"}
+{"id":"d-0013","ts":"2026-10-19T01:24:00Z","input":"账单显示升级了套餐但我没点过（工单 #1212）","predicted":"billing","confidence":0.88,"stored_label":"billing","label_source":"model"}
+{"id":"d-0014","ts":"2026-10-19T01:31:00Z","input":"想合并两个账号的数据（工单 #1213）","predicted":"account","confidence":0.89,"stored_label":"account","label_source":"human"}
+{"id":"d-0015","ts":"2026-10-19T01:38:00Z","input":"合作吗？我们有 10 万粉丝（工单 #1214）","predicted":"bug","confidence":0.67,"stored_label":"bug","label_source":"model"}
+{"id":"d-0016","ts":"2026-10-19T01:45:00Z","input":"客户说发票金额对不上，要求重开一张（工单 #1215）","predicted":"billing","confidence":0.83,"stored_label":"billing","label_source":"model"}
+{"id":"d-0017","ts":"2026-10-19T01:52:00Z","input":"订阅扣了两次款，问什么时候退（工单 #1216）","predicted":"billing","confidence":0.86,"stored_label":"billing","label_source":"model"}
+{"id":"d-0018","ts":"2026-10-19T01:59:00Z","input":"账单显示升级了套餐但我没点过（工单 #1217）","predicted":"billing","confidence":0.7,"stored_label":"billing","label_source":"model"}
+{"id":"d-0019","ts":"2026-10-19T02:06:00Z","input":"想把月付改成按年付，差价怎么算（工单 #1218）","predicted":"account","confidence":0.56,"stored_label":"account","label_source":"model"}
+{"id":"d-0020","ts":"2026-10-19T02:13:00Z","input":"发票抬头写错了，需要重开（工单 #1219）","predicted":"billing","confidence":0.72,"stored_label":"billing","label_source":"model"}
+{"id":"d-0021","ts":"2026-10-19T02:20:00Z","input":"换了手机号，验证码收不到（工单 #1220）","predicted":"spam","confidence":0.72,"stored_label":"spam","label_source":"model"}
+{"id":"d-0022","ts":"2026-10-19T02:27:00Z","input":"登录后一直转圈，进不去工作台（工单 #1221）","predicted":"refund","confidence":0.79,"stored_label":"refund","label_source":"model"}
+{"id":"d-0023","ts":"2026-10-19T02:34:00Z","input":"保存草稿按钮点了没反应（工单 #1222）","predicted":"bug","confidence":0.84,"stored_label":"bug","label_source":"model"}
+{"id":"d-0024","ts":"2026-10-19T02:41:00Z","input":"手机上图片加载不出来（工单 #1223）","predicted":"spam","confidence":0.62,"stored_label":"bug","label_source":"human"}
+{"id":"d-0025","ts":"2026-10-19T02:48:00Z","input":"两步验证的备用码丢了（工单 #1224）","predicted":"account","confidence":0.77,"stored_label":"account","label_source":"model"}
+{"id":"d-0026","ts":"2026-10-19T02:55:00Z","input":"换了手机号，验证码收不到（工单 #1225）","predicted":"account","confidence":0.97,"stored_label":"account","label_source":"model"}
+{"id":"d-0027","ts":"2026-10-19T03:02:00Z","input":"低价代开发票，当天出票（工单 #1226）","predicted":"spam","confidence":0.81,"stored_label":"spam","label_source":"model"}
+{"id":"d-0028","ts":"2026-10-19T03:09:00Z","input":"我们提供 SEO 排名服务（工单 #1227）","predicted":"spam","confidence":0.78,"stored_label":"spam","label_source":"model"}
+{"id":"d-0029","ts":"2026-10-19T03:16:00Z","input":"手机上图片加载不出来（工单 #1228）","predicted":"bug","confidence":0.94,"stored_label":"bug","label_source":"model"}
+{"id":"d-0030","ts":"2026-10-19T03:23:00Z","input":"搜索框输入后页面白屏（工单 #1229）","predicted":"bug","confidence":0.71,"stored_label":"bug","label_source":"model"}
+{"id":"d-0031","ts":"2026-10-19T03:30:00Z","input":"客户说发票金额对不上，要求重开一张（工单 #1230）","predicted":"billing","confidence":0.9,"stored_label":"billing","label_source":"model"}
+{"id":"d-0032","ts":"2026-10-19T03:37:00Z","input":"低价代开发票，当天出票（工单 #1231）","predicted":"spam","confidence":0.78,"stored_label":"spam","label_source":"model"}
+{"id":"d-0033","ts":"2026-10-19T03:44:00Z","input":"退款金额比订单少了 20 元（工单 #1232）","predicted":"spam","confidence":0.76,"stored_label":"spam","label_source":"model"}
+{"id":"d-0034","ts":"2026-10-19T03:51:00Z","input":"想把月付改成按年付，差价怎么算（工单 #1233）","predicted":"billing","confidence":0.77,"stored_label":"billing","label_source":"human"}
+{"id":"d-0035","ts":"2026-10-19T03:58:00Z","input":"说好 7 天无理由，现在不给退（工单 #1234）","predicted":"account","confidence":0.62,"stored_label":"account","label_source":"model"}
+{"id":"d-0036","ts":"2026-10-19T04:05:00Z","input":"收到货是坏的，申请退款（工单 #1235）","predicted":"spam","confidence":0.59,"stored_label":"spam","label_source":"model"}
+{"id":"d-0037","ts":"2026-10-19T04:12:00Z","input":"订阅扣了两次款，问什么时候退（工单 #1236）","predicted":"billing","confidence":0.65,"stored_label":"billing","label_source":"model"}
+{"id":"d-0038","ts":"2026-10-19T04:19:00Z","input":"账单显示升级了套餐但我没点过（工单 #1237）","predicted":"billing","confidence":0.93,"stored_label":"billing","label_source":"model"}
+{"id":"d-0039","ts":"2026-10-19T04:26:00Z","input":"手机上图片加载不出来（工单 #1238）","predicted":"bug","confidence":0.8,"stored_label":"bug","label_source":"model"}
+{"id":"d-0040","ts":"2026-10-19T04:33:00Z","input":"合作吗？我们有 10 万粉丝（工单 #1239）","predicted":"spam","confidence":0.98,"stored_label":"spam","label_source":"model"}
+{"id":"d-0041","ts":"2026-10-19T04:40:00Z","input":"导出 CSV 后中文全是问号（工单 #1240）","predicted":"bug","confidence":0.84,"stored_label":"bug","label_source":"model"}
+{"id":"d-0042","ts":"2026-10-19T04:47:00Z","input":"订单取消三天了还没退款到账（工单 #1241）","predicted":"refund","confidence":0.64,"stored_label":"refund","label_source":"model"}
+{"id":"d-0043","ts":"2026-10-19T04:54:00Z","input":"退款金额比订单少了 20 元（工单 #1242）","predicted":"refund","confidence":0.65,"stored_label":"refund","label_source":"model"}
+{"id":"d-0044","ts":"2026-10-19T05:01:00Z","input":"点击链接领取 500 元红包（工单 #1243）","predicted":"spam","confidence":0.97,"stored_label":"spam","label_source":"human"}
+{"id":"d-0045","ts":"2026-10-19T05:08:00Z","input":"发票抬头写错了，需要重开（工单 #1244）","predicted":"billing","confidence":0.74,"stored_label":"billing","label_source":"model"}
+{"id":"d-0046","ts":"2026-10-19T05:15:00Z","input":"导出 CSV 后中文全是问号（工单 #1245）","predicted":"bug","confidence":0.81,"stored_label":"bug","label_source":"model"}
+{"id":"d-0047","ts":"2026-10-19T05:22:00Z","input":"登录后一直转圈，进不去工作台（工单 #1246）","predicted":"billing","confidence":0.78,"stored_label":"billing","label_source":"model"}
+{"id":"d-0048","ts":"2026-10-19T05:29:00Z","input":"登录提示账号停用，但我没操作过（工单 #1247）","predicted":"account","confidence":0.86,"stored_label":"account","label_source":"model"}
+{"id":"d-0049","ts":"2026-10-19T05:36:00Z","input":"手机上图片加载不出来（工单 #1248）","predicted":"bug","confidence":0.69,"stored_label":"bug","label_source":"model"}
+{"id":"d-0050","ts":"2026-10-19T05:43:00Z","input":"说好 7 天无理由，现在不给退（工单 #1249）","predicted":"bug","confidence":0.68,"stored_label":"bug","label_source":"model"}
+{"id":"d-0051","ts":"2026-10-19T05:50:00Z","input":"导出 CSV 后中文全是问号（工单 #1250）","predicted":"bug","confidence":0.81,"stored_label":"bug","label_source":"model"}
+{"id":"d-0052","ts":"2026-10-19T05:57:00Z","input":"订阅扣了两次款，问什么时候退（工单 #1251）","predicted":"billing","confidence":0.99,"stored_label":"billing","label_source":"model"}
+{"id":"d-0053","ts":"2026-10-19T06:04:00Z","input":"退款金额比订单少了 20 元（工单 #1252）","predicted":"refund","confidence":0.81,"stored_label":"refund","label_source":"model"}
+{"id":"d-0054","ts":"2026-10-19T06:11:00Z","input":"手机上图片加载不出来（工单 #1253）","predicted":"spam","confidence":0.63,"stored_label":"bug","label_source":"human"}
+{"id":"d-0055","ts":"2026-10-19T06:18:00Z","input":"搜索框输入后页面白屏（工单 #1254）","predicted":"bug","confidence":0.82,"stored_label":"bug","label_source":"model"}
+{"id":"d-0056","ts":"2026-10-19T06:25:00Z","input":"换了手机号，验证码收不到（工单 #1255）","predicted":"account","confidence":0.96,"stored_label":"account","label_source":"model"}
+{"id":"d-0057","ts":"2026-10-19T06:32:00Z","input":"订阅扣了两次款，问什么时候退（工单 #1256）","predicted":"billing","confidence":0.86,"stored_label":"billing","label_source":"model"}
+{"id":"d-0058","ts":"2026-10-19T06:39:00Z","input":"退款金额比订单少了 20 元（工单 #1257）","predicted":"refund","confidence":0.9,"stored_label":"refund","label_source":"model"}
+{"id":"d-0059","ts":"2026-10-19T06:46:00Z","input":"想合并两个账号的数据（工单 #1258）","predicted":"spam","confidence":0.76,"stored_label":"spam","label_source":"model"}
+{"id":"d-0060","ts":"2026-10-19T06:53:00Z","input":"两步验证的备用码丢了（工单 #1259）","predicted":"account","confidence":0.71,"stored_label":"account","label_source":"model"}
+{"id":"d-0061","ts":"2026-10-19T07:00:00Z","input":"加微信领取免费课程（工单 #1260）","predicted":"spam","confidence":0.73,"stored_label":"spam","label_source":"model"}
+{"id":"d-0062","ts":"2026-10-19T07:07:00Z","input":"订单取消三天了还没退款到账（工单 #1261）","predicted":"refund","confidence":0.97,"stored_label":"refund","label_source":"model"}
+{"id":"d-0063","ts":"2026-10-19T07:14:00Z","input":"账单显示升级了套餐但我没点过（工单 #1262）","predicted":"billing","confidence":0.74,"stored_label":"billing","label_source":"model"}
+{"id":"d-0064","ts":"2026-10-19T07:21:00Z","input":"想把月付改成按年付，差价怎么算（工单 #1263）","predicted":"billing","confidence":0.7,"stored_label":"billing","label_source":"human"}
+{"id":"d-0065","ts":"2026-10-19T07:28:00Z","input":"发票抬头写错了，需要重开（工单 #1264）","predicted":"billing","confidence":0.81,"stored_label":"billing","label_source":"model"}
+{"id":"d-0066","ts":"2026-10-19T07:35:00Z","input":"导出 CSV 后中文全是问号（工单 #1265）","predicted":"bug","confidence":0.84,"stored_label":"bug","label_source":"model"}
+{"id":"d-0067","ts":"2026-10-19T07:42:00Z","input":"低价代开发票，当天出票（工单 #1266）","predicted":"spam","confidence":0.9,"stored_label":"spam","label_source":"model"}
+{"id":"d-0068","ts":"2026-10-19T07:49:00Z","input":"保存草稿按钮点了没反应（工单 #1267）","predicted":"bug","confidence":0.79,"stored_label":"bug","label_source":"model"}
+{"id":"d-0069","ts":"2026-10-19T07:56:00Z","input":"想合并两个账号的数据（工单 #1268）","predicted":"account","confidence":0.91,"stored_label":"account","label_source":"model"}
+{"id":"d-0070","ts":"2026-10-19T08:03:00Z","input":"合作吗？我们有 10 万粉丝（工单 #1269）","predicted":"spam","confidence":0.79,"stored_label":"spam","label_source":"model"}
+{"id":"d-0071","ts":"2026-10-19T08:10:00Z","input":"收到货是坏的，申请退款（工单 #1270）","predicted":"refund","confidence":0.79,"stored_label":"refund","label_source":"model"}
+{"id":"d-0072","ts":"2026-10-19T08:17:00Z","input":"登录后一直转圈，进不去工作台（工单 #1271）","predicted":"bug","confidence":0.84,"stored_label":"bug","label_source":"model"}
+{"id":"d-0073","ts":"2026-10-19T08:24:00Z","input":"账单显示升级了套餐但我没点过（工单 #1272）","predicted":"billing","confidence":0.95,"stored_label":"billing","label_source":"model"}
+{"id":"d-0074","ts":"2026-10-19T08:31:00Z","input":"想合并两个账号的数据（工单 #1273）","predicted":"account","confidence":0.68,"stored_label":"account","label_source":"human"}
+{"id":"d-0075","ts":"2026-10-19T08:38:00Z","input":"发票抬头写错了，需要重开（工单 #1274）","predicted":"billing","confidence":0.89,"stored_label":"billing","label_source":"model"}
+{"id":"d-0076","ts":"2026-10-19T08:45:00Z","input":"客户说发票金额对不上，要求重开一张（工单 #1275）","predicted":"billing","confidence":0.67,"stored_label":"billing","label_source":"model"}
+{"id":"d-0077","ts":"2026-10-19T08:52:00Z","input":"订阅扣了两次款，问什么时候退（工单 #1276）","predicted":"billing","confidence":0.64,"stored_label":"billing","label_source":"model"}
+{"id":"d-0078","ts":"2026-10-19T08:59:00Z","input":"我们提供 SEO 排名服务（工单 #1277）","predicted":"spam","confidence":0.66,"stored_label":"spam","label_source":"model"}
+{"id":"d-0079","ts":"2026-10-19T09:06:00Z","input":"想把月付改成按年付，差价怎么算（工单 #1278）","predicted":"billing","confidence":0.96,"stored_label":"billing","label_source":"model"}
+{"id":"d-0080","ts":"2026-10-19T09:13:00Z","input":"两步验证的备用码丢了（工单 #1279）","predicted":"account","confidence":0.86,"stored_label":"account","label_source":"model"}
+{"id":"d-0081","ts":"2026-10-19T09:20:00Z","input":"客户说发票金额对不上，要求重开一张（工单 #1280）","predicted":"billing","confidence":0.89,"stored_label":"billing","label_source":"model"}
+{"id":"d-0082","ts":"2026-10-19T09:27:00Z","input":"订单取消三天了还没退款到账（工单 #1281）","predicted":"refund","confidence":0.83,"stored_label":"refund","label_source":"model"}
+{"id":"d-0083","ts":"2026-10-19T09:34:00Z","input":"保存草稿按钮点了没反应（工单 #1282）","predicted":"bug","confidence":0.69,"stored_label":"bug","label_source":"model"}
+{"id":"d-0084","ts":"2026-10-19T09:41:00Z","input":"点击链接领取 500 元红包（工单 #1283）","predicted":"spam","confidence":0.95,"stored_label":"spam","label_source":"human"}
+{"id":"d-0085","ts":"2026-10-19T09:48:00Z","input":"说好 7 天无理由，现在不给退（工单 #1284）","predicted":"refund","confidence":0.94,"stored_label":"refund","label_source":"model"}
+{"id":"d-0086","ts":"2026-10-19T09:55:00Z","input":"加微信领取免费课程（工单 #1285）","predicted":"spam","confidence":0.92,"stored_label":"spam","label_source":"model"}
+{"id":"d-0087","ts":"2026-10-19T10:02:00Z","input":"低价代开发票，当天出票（工单 #1286）","predicted":"spam","confidence":0.88,"stored_label":"spam","label_source":"model"}
+{"id":"d-0088","ts":"2026-10-19T10:09:00Z","input":"账单显示升级了套餐但我没点过（工单 #1287）","predicted":"billing","confidence":0.7,"stored_label":"billing","label_source":"model"}
+{"id":"d-0089","ts":"2026-10-19T10:16:00Z","input":"重复下单了，想退掉其中一单（工单 #1288）","predicted":"refund","confidence":0.69,"stored_label":"refund","label_source":"model"}
+{"id":"d-0090","ts":"2026-10-19T10:23:00Z","input":"搜索框输入后页面白屏（工单 #1289）","predicted":"bug","confidence":0.94,"stored_label":"bug","label_source":"model"}
+{"id":"d-0091","ts":"2026-10-19T10:30:00Z","input":"加微信领取免费课程（工单 #1290）","predicted":"spam","confidence":0.8,"stored_label":"spam","label_source":"model"}
+{"id":"d-0092","ts":"2026-10-19T10:37:00Z","input":"低价代开发票，当天出票（工单 #1291）","predicted":"spam","confidence":0.77,"stored_label":"spam","label_source":"model"}
+{"id":"d-0093","ts":"2026-10-19T10:44:00Z","input":"保存草稿按钮点了没反应（工单 #1292）","predicted":"bug","confidence":0.67,"stored_label":"bug","label_source":"model"}
+{"id":"d-0094","ts":"2026-10-19T10:51:00Z","input":"重复下单了，想退掉其中一单（工单 #1293）","predicted":"refund","confidence":0.66,"stored_label":"refund","label_source":"human"}
+{"id":"d-0095","ts":"2026-10-19T10:58:00Z","input":"搜索框输入后页面白屏（工单 #1294）","predicted":"bug","confidence":0.93,"stored_label":"bug","label_source":"model"}
+{"id":"d-0096","ts":"2026-10-19T11:05:00Z","input":"加微信领取免费课程（工单 #1295）","predicted":"spam","confidence":0.81,"stored_label":"spam","label_source":"model"}
+{"id":"d-0097","ts":"2026-10-19T11:12:00Z","input":"低价代开发票，当天出票（工单 #1296）","predicted":"account","confidence":0.74,"stored_label":"account","label_source":"model"}
+{"id":"d-0098","ts":"2026-10-19T11:19:00Z","input":"账单显示升级了套餐但我没点过（工单 #1297）","predicted":"billing","confidence":0.77,"stored_label":"billing","label_source":"model"}
+{"id":"d-0099","ts":"2026-10-19T11:26:00Z","input":"重复下单了，想退掉其中一单（工单 #1298）","predicted":"refund","confidence":0.76,"stored_label":"refund","label_source":"model"}
+{"id":"d-0100","ts":"2026-10-19T11:33:00Z","input":"合作吗？我们有 10 万粉丝（工单 #1299）","predicted":"bug","confidence":0.85,"stored_label":"bug","label_source":"model"}
+{"id":"d-0101","ts":"2026-10-19T11:40:00Z","input":"客户说发票金额对不上，要求重开一张（工单 #1300）","predicted":"billing","confidence":0.7,"stored_label":"billing","label_source":"model"}
+{"id":"d-0102","ts":"2026-10-19T11:47:00Z","input":"订阅扣了两次款，问什么时候退（工单 #1301）","predicted":"billing","confidence":0.92,"stored_label":"billing","label_source":"model"}
+{"id":"d-0103","ts":"2026-10-19T11:54:00Z","input":"账单显示升级了套餐但我没点过（工单 #1302）","predicted":"billing","confidence":0.69,"stored_label":"billing","label_source":"model"}
+{"id":"d-0104","ts":"2026-10-19T12:01:00Z","input":"想把月付改成按年付，差价怎么算（工单 #1303）","predicted":"billing","confidence":0.83,"stored_label":"billing","label_source":"human"}
+{"id":"d-0105","ts":"2026-10-19T12:08:00Z","input":"搜索框输入后页面白屏（工单 #1304）","predicted":"bug","confidence":0.71,"stored_label":"bug","label_source":"model"}
+{"id":"d-0106","ts":"2026-10-19T12:15:00Z","input":"客户说发票金额对不上，要求重开一张（工单 #1305）","predicted":"billing","confidence":0.9,"stored_label":"billing","label_source":"model"}
+{"id":"d-0107","ts":"2026-10-19T12:22:00Z","input":"团队成员离职，怎么移除账号（工单 #1306）","predicted":"account","confidence":0.91,"stored_label":"account","label_source":"model"}
+{"id":"d-0108","ts":"2026-10-19T12:29:00Z","input":"我们提供 SEO 排名服务（工单 #1307）","predicted":"spam","confidence":0.97,"stored_label":"spam","label_source":"model"}
+{"id":"d-0109","ts":"2026-10-19T12:36:00Z","input":"点击链接领取 500 元红包（工单 #1308）","predicted":"spam","confidence":0.65,"stored_label":"spam","label_source":"model"}
+{"id":"d-0110","ts":"2026-10-19T12:43:00Z","input":"搜索框输入后页面白屏（工单 #1309）","predicted":"bug","confidence":0.68,"stored_label":"bug","label_source":"model"}
+{"id":"d-0111","ts":"2026-10-19T12:50:00Z","input":"导出 CSV 后中文全是问号（工单 #1310）","predicted":"bug","confidence":0.8,"stored_label":"bug","label_source":"model"}
+{"id":"d-0112","ts":"2026-10-19T12:57:00Z","input":"订阅扣了两次款，问什么时候退（工单 #1311）","predicted":"billing","confidence":0.87,"stored_label":"billing","label_source":"model"}
+{"id":"d-0113","ts":"2026-10-19T13:04:00Z","input":"登录提示账号停用，但我没操作过（工单 #1312）","predicted":"refund","confidence":0.53,"stored_label":"refund","label_source":"model"}
+{"id":"d-0114","ts":"2026-10-19T13:11:00Z","input":"点击链接领取 500 元红包（工单 #1313）","predicted":"spam","confidence":0.72,"stored_label":"spam","label_source":"human"}
+{"id":"d-0115","ts":"2026-10-19T13:18:00Z","input":"发票抬头写错了，需要重开（工单 #1314）","predicted":"billing","confidence":0.91,"stored_label":"billing","label_source":"model"}
+{"id":"d-0116","ts":"2026-10-19T13:25:00Z","input":"收到货是坏的，申请退款（工单 #1315）","predicted":"refund","confidence":0.78,"stored_label":"refund","label_source":"model"}
+{"id":"d-0117","ts":"2026-10-19T13:32:00Z","input":"登录后一直转圈，进不去工作台（工单 #1316）","predicted":"bug","confidence":0.65,"stored_label":"bug","label_source":"model"}
+{"id":"d-0118","ts":"2026-10-19T13:39:00Z","input":"登录提示账号停用，但我没操作过（工单 #1317）","predicted":"refund","confidence":0.54,"stored_label":"refund","label_source":"model"}
+{"id":"d-0119","ts":"2026-10-19T13:46:00Z","input":"手机上图片加载不出来（工单 #1318）","predicted":"bug","confidence":0.98,"stored_label":"bug","label_source":"model"}
+{"id":"d-0120","ts":"2026-10-19T13:53:00Z","input":"搜索框输入后页面白屏（工单 #1319）","predicted":"bug","confidence":0.95,"stored_label":"bug","label_source":"model"}
+{"id":"d-0121","ts":"2026-10-19T14:00:00Z","input":"加微信领取免费课程（工单 #1320）","predicted":"spam","confidence":0.7,"stored_label":"spam","label_source":"model"}
+{"id":"d-0122","ts":"2026-10-19T14:07:00Z","input":"登录后一直转圈，进不去工作台（工单 #1321）","predicted":"bug","confidence":0.81,"stored_label":"bug","label_source":"model"}
+{"id":"d-0123","ts":"2026-10-19T14:14:00Z","input":"账单显示升级了套餐但我没点过（工单 #1322）","predicted":"billing","confidence":0.76,"stored_label":"billing","label_source":"model"}
+{"id":"d-0124","ts":"2026-10-19T14:21:00Z","input":"想合并两个账号的数据（工单 #1323）","predicted":"account","confidence":0.8,"stored_label":"account","label_source":"human"}
+{"id":"d-0125","ts":"2026-10-19T14:28:00Z","input":"说好 7 天无理由，现在不给退（工单 #1324）","predicted":"refund","confidence":0.63,"stored_label":"refund","label_source":"model"}
+{"id":"d-0126","ts":"2026-10-19T14:35:00Z","input":"客户说发票金额对不上，要求重开一张（工单 #1325）","predicted":"billing","confidence":0.81,"stored_label":"billing","label_source":"model"}
+{"id":"d-0127","ts":"2026-10-19T14:42:00Z","input":"订阅扣了两次款，问什么时候退（工单 #1326）","predicted":"spam","confidence":0.76,"stored_label":"spam","label_source":"model"}
+{"id":"d-0128","ts":"2026-10-19T14:49:00Z","input":"保存草稿按钮点了没反应（工单 #1327）","predicted":"bug","confidence":0.75,"stored_label":"bug","label_source":"model"}
+{"id":"d-0129","ts":"2026-10-19T14:56:00Z","input":"想合并两个账号的数据（工单 #1328）","predicted":"bug","confidence":0.63,"stored_label":"bug","label_source":"model"}
+{"id":"d-0130","ts":"2026-10-19T15:03:00Z","input":"两步验证的备用码丢了（工单 #1329）","predicted":"account","confidence":0.65,"stored_label":"account","label_source":"model"}
+{"id":"d-0131","ts":"2026-10-19T15:10:00Z","input":"客户说发票金额对不上，要求重开一张（工单 #1330）","predicted":"billing","confidence":0.62,"stored_label":"billing","label_source":"model"}
+{"id":"d-0132","ts":"2026-10-19T15:17:00Z","input":"订单取消三天了还没退款到账（工单 #1331）","predicted":"refund","confidence":0.66,"stored_label":"refund","label_source":"model"}
+{"id":"d-0133","ts":"2026-10-19T15:24:00Z","input":"保存草稿按钮点了没反应（工单 #1332）","predicted":"bug","confidence":0.89,"stored_label":"bug","label_source":"model"}
+{"id":"d-0134","ts":"2026-10-19T15:31:00Z","input":"点击链接领取 500 元红包（工单 #1333）","predicted":"spam","confidence":0.95,"stored_label":"spam","label_source":"human"}
+{"id":"d-0135","ts":"2026-10-19T15:38:00Z","input":"两步验证的备用码丢了（工单 #1334）","predicted":"bug","confidence":0.57,"stored_label":"bug","label_source":"model"}
+{"id":"d-0136","ts":"2026-10-19T15:45:00Z","input":"导出 CSV 后中文全是问号（工单 #1335）","predicted":"bug","confidence":0.73,"stored_label":"bug","label_source":"model"}
+{"id":"d-0137","ts":"2026-10-19T15:52:00Z","input":"订阅扣了两次款，问什么时候退（工单 #1336）","predicted":"billing","confidence":0.62,"stored_label":"billing","label_source":"model"}
+{"id":"d-0138","ts":"2026-10-19T15:59:00Z","input":"保存草稿按钮点了没反应（工单 #1337）","predicted":"bug","confidence":0.88,"stored_label":"bug","label_source":"model"}
+{"id":"d-0139","ts":"2026-10-19T16:06:00Z","input":"手机上图片加载不出来（工单 #1338）","predicted":"refund","confidence":0.62,"stored_label":"refund","label_source":"model"}
+{"id":"d-0140","ts":"2026-10-19T16:13:00Z","input":"搜索框输入后页面白屏（工单 #1339）","predicted":"refund","confidence":0.54,"stored_label":"refund","label_source":"model"}
+{"id":"d-0141","ts":"2026-10-19T16:20:00Z","input":"导出 CSV 后中文全是问号（工单 #1340）","predicted":"bug","confidence":0.81,"stored_label":"bug","label_source":"model"}
+{"id":"d-0142","ts":"2026-10-19T16:27:00Z","input":"团队成员离职，怎么移除账号（工单 #1341）","predicted":"account","confidence":0.62,"stored_label":"account","label_source":"model"}
+{"id":"d-0143","ts":"2026-10-19T16:34:00Z","input":"登录提示账号停用，但我没操作过（工单 #1342）","predicted":"account","confidence":0.69,"stored_label":"account","label_source":"model"}
+{"id":"d-0144","ts":"2026-10-19T16:41:00Z","input":"想把月付改成按年付，差价怎么算（工单 #1343）","predicted":"bug","confidence":0.59,"stored_label":"billing","label_source":"human"}
+{"id":"d-0145","ts":"2026-10-19T16:48:00Z","input":"发票抬头写错了，需要重开（工单 #1344）","predicted":"billing","confidence":0.63,"stored_label":"billing","label_source":"model"}
+{"id":"d-0146","ts":"2026-10-19T16:55:00Z","input":"客户说发票金额对不上，要求重开一张（工单 #1345）","predicted":"billing","confidence":0.71,"stored_label":"billing","label_source":"model"}
+{"id":"d-0147","ts":"2026-10-19T17:02:00Z","input":"订单取消三天了还没退款到账（工单 #1346）","predicted":"refund","confidence":0.62,"stored_label":"refund","label_source":"model"}
+{"id":"d-0148","ts":"2026-10-19T17:09:00Z","input":"账单显示升级了套餐但我没点过（工单 #1347）","predicted":"billing","confidence":0.77,"stored_label":"billing","label_source":"model"}
+{"id":"d-0149","ts":"2026-10-19T17:16:00Z","input":"点击链接领取 500 元红包（工单 #1348）","predicted":"spam","confidence":0.73,"stored_label":"spam","label_source":"model"}
+{"id":"d-0150","ts":"2026-10-19T17:23:00Z","input":"合作吗？我们有 10 万粉丝（工单 #1349）","predicted":"spam","confidence":0.69,"stored_label":"spam","label_source":"model"}
+{"id":"d-0151","ts":"2026-10-19T17:30:00Z","input":"导出 CSV 后中文全是问号（工单 #1350）","predicted":"bug","confidence":0.88,"stored_label":"bug","label_source":"model"}
+{"id":"d-0152","ts":"2026-10-19T17:37:00Z","input":"登录后一直转圈，进不去工作台（工单 #1351）","predicted":"spam","confidence":0.73,"stored_label":"spam","label_source":"model"}
+{"id":"d-0153","ts":"2026-10-19T17:44:00Z","input":"退款金额比订单少了 20 元（工单 #1352）","predicted":"refund","confidence":0.68,"stored_label":"refund","label_source":"model"}
+{"id":"d-0154","ts":"2026-10-19T17:51:00Z","input":"手机上图片加载不出来（工单 #1353）","predicted":"bug","confidence":0.69,"stored_label":"bug","label_source":"human"}
+{"id":"d-0155","ts":"2026-10-19T17:58:00Z","input":"说好 7 天无理由，现在不给退（工单 #1354）","predicted":"billing","confidence":0.86,"stored_label":"billing","label_source":"model"}
+{"id":"d-0156","ts":"2026-10-19T18:05:00Z","input":"客户说发票金额对不上，要求重开一张（工单 #1355）","predicted":"billing","confidence":0.86,"stored_label":"billing","label_source":"model"}
+{"id":"d-0157","ts":"2026-10-19T18:12:00Z","input":"登录后一直转圈，进不去工作台（工单 #1356）","predicted":"bug","confidence":0.75,"stored_label":"bug","label_source":"model"}
+{"id":"d-0158","ts":"2026-10-19T18:19:00Z","input":"登录提示账号停用，但我没操作过（工单 #1357）","predicted":"billing","confidence":0.56,"stored_label":"billing","label_source":"model"}
+{"id":"d-0159","ts":"2026-10-19T18:26:00Z","input":"手机上图片加载不出来（工单 #1358）","predicted":"bug","confidence":0.87,"stored_label":"bug","label_source":"model"}
+{"id":"d-0160","ts":"2026-10-19T18:33:00Z","input":"发票抬头写错了，需要重开（工单 #1359）","predicted":"billing","confidence":0.8,"stored_label":"billing","label_source":"model"}
+{"id":"d-0161","ts":"2026-10-19T18:40:00Z","input":"收到货是坏的，申请退款（工单 #1360）","predicted":"refund","confidence":0.66,"stored_label":"refund","label_source":"model"}
+{"id":"d-0162","ts":"2026-10-19T18:47:00Z","input":"订阅扣了两次款，问什么时候退（工单 #1361）","predicted":"billing","confidence":0.69,"stored_label":"billing","label_source":"model"}
+{"id":"d-0163","ts":"2026-10-19T18:54:00Z","input":"登录提示账号停用，但我没操作过（工单 #1362）","predicted":"account","confidence":0.94,"stored_label":"account","label_source":"model"}
+{"id":"d-0164","ts":"2026-10-19T19:01:00Z","input":"点击链接领取 500 元红包（工单 #1363）","predicted":"spam","confidence":0.75,"stored_label":"spam","label_source":"human"}
+{"id":"d-0165","ts":"2026-10-19T19:08:00Z","input":"搜索框输入后页面白屏（工单 #1364）","predicted":"bug","confidence":0.67,"stored_label":"bug","label_source":"model"}
+{"id":"d-0166","ts":"2026-10-19T19:15:00Z","input":"收到货是坏的，申请退款（工单 #1365）","predicted":"refund","confidence":0.99,"stored_label":"refund","label_source":"model"}
+{"id":"d-0167","ts":"2026-10-19T19:22:00Z","input":"订单取消三天了还没退款到账（工单 #1366）","predicted":"refund","confidence":0.88,"stored_label":"refund","label_source":"model"}
+{"id":"d-0168","ts":"2026-10-19T19:29:00Z","input":"登录提示账号停用，但我没操作过（工单 #1367）","predicted":"account","confidence":0.87,"stored_label":"account","label_source":"model"}
+{"id":"d-0169","ts":"2026-10-19T19:36:00Z","input":"手机上图片加载不出来（工单 #1368）","predicted":"bug","confidence":0.62,"stored_label":"bug","label_source":"model"}
+{"id":"d-0170","ts":"2026-10-19T19:43:00Z","input":"搜索框输入后页面白屏（工单 #1369）","predicted":"billing","confidence":0.59,"stored_label":"billing","label_source":"model"}
+{"id":"d-0171","ts":"2026-10-19T19:50:00Z","input":"导出 CSV 后中文全是问号（工单 #1370）","predicted":"bug","confidence":0.78,"stored_label":"bug","label_source":"model"}
+{"id":"d-0172","ts":"2026-10-19T19:57:00Z","input":"登录后一直转圈，进不去工作台（工单 #1371）","predicted":"bug","confidence":0.8,"stored_label":"bug","label_source":"model"}
+{"id":"d-0173","ts":"2026-10-19T20:04:00Z","input":"退款金额比订单少了 20 元（工单 #1372）","predicted":"refund","confidence":0.85,"stored_label":"refund","label_source":"model"}
+{"id":"d-0174","ts":"2026-10-19T20:11:00Z","input":"想把月付改成按年付，差价怎么算（工单 #1373）","predicted":"billing","confidence":0.89,"stored_label":"billing","label_source":"human"}
+{"id":"d-0175","ts":"2026-10-19T20:18:00Z","input":"说好 7 天无理由，现在不给退（工单 #1374）","predicted":"refund","confidence":0.84,"stored_label":"refund","label_source":"model"}
+{"id":"d-0176","ts":"2026-10-19T20:25:00Z","input":"收到货是坏的，申请退款（工单 #1375）","predicted":"bug","confidence":0.72,"stored_label":"bug","label_source":"model"}
+{"id":"d-0177","ts":"2026-10-19T20:32:00Z","input":"低价代开发票，当天出票（工单 #1376）","predicted":"spam","confidence":0.62,"stored_label":"spam","label_source":"model"}
+{"id":"d-0178","ts":"2026-10-19T20:39:00Z","input":"登录提示账号停用，但我没操作过（工单 #1377）","predicted":"account","confidence":0.98,"stored_label":"account","label_source":"model"}
+{"id":"d-0179","ts":"2026-10-19T20:46:00Z","input":"手机上图片加载不出来（工单 #1378）","predicted":"bug","confidence":0.92,"stored_label":"bug","label_source":"model"}
+{"id":"d-0180","ts":"2026-10-19T20:53:00Z","input":"两步验证的备用码丢了（工单 #1379）","predicted":"account","confidence":0.83,"stored_label":"account","label_source":"model"}
+{"id":"d-0181","ts":"2026-10-19T21:00:00Z","input":"客户说发票金额对不上，要求重开一张（工单 #1380）","predicted":"billing","confidence":0.7,"stored_label":"billing","label_source":"model"}
+{"id":"d-0182","ts":"2026-10-19T21:07:00Z","input":"低价代开发票，当天出票（工单 #1381）","predicted":"account","confidence":0.87,"stored_label":"account","label_source":"model"}
+{"id":"d-0183","ts":"2026-10-19T21:14:00Z","input":"账单显示升级了套餐但我没点过（工单 #1382）","predicted":"bug","confidence":0.84,"stored_label":"bug","label_source":"model"}
+{"id":"d-0184","ts":"2026-10-19T21:21:00Z","input":"想把月付改成按年付，差价怎么算（工单 #1383）","predicted":"billing","confidence":0.88,"stored_label":"billing","label_source":"human"}
+{"id":"d-0185","ts":"2026-10-19T21:28:00Z","input":"搜索框输入后页面白屏（工单 #1384）","predicted":"billing","confidence":0.81,"stored_label":"billing","label_source":"model"}
+{"id":"d-0186","ts":"2026-10-19T21:35:00Z","input":"客户说发票金额对不上，要求重开一张（工单 #1385）","predicted":"billing","confidence":0.72,"stored_label":"billing","label_source":"model"}
+{"id":"d-0187","ts":"2026-10-19T21:42:00Z","input":"订单取消三天了还没退款到账（工单 #1386）","predicted":"refund","confidence":0.91,"stored_label":"refund","label_source":"model"}
+{"id":"d-0188","ts":"2026-10-19T21:49:00Z","input":"账单显示升级了套餐但我没点过（工单 #1387）","predicted":"billing","confidence":0.97,"stored_label":"billing","label_source":"model"}
+{"id":"d-0189","ts":"2026-10-19T21:56:00Z","input":"手机上图片加载不出来（工单 #1388）","predicted":"bug","confidence":0.92,"stored_label":"bug","label_source":"model"}
+{"id":"d-0190","ts":"2026-10-19T22:03:00Z","input":"发票抬头写错了，需要重开（工单 #1389）","predicted":"billing","confidence":0.72,"stored_label":"billing","label_source":"model"}
+{"id":"d-0191","ts":"2026-10-19T22:10:00Z","input":"客户说发票金额对不上，要求重开一张（工单 #1390）","predicted":"billing","confidence":0.95,"stored_label":"billing","label_source":"model"}
+{"id":"d-0192","ts":"2026-10-19T22:17:00Z","input":"登录后一直转圈，进不去工作台（工单 #1391）","predicted":"bug","confidence":0.95,"stored_label":"bug","label_source":"model"}
+{"id":"d-0193","ts":"2026-10-19T22:24:00Z","input":"登录提示账号停用，但我没操作过（工单 #1392）","predicted":"account","confidence":0.79,"stored_label":"account","label_source":"model"}
+{"id":"d-0194","ts":"2026-10-19T22:31:00Z","input":"想合并两个账号的数据（工单 #1393）","predicted":"account","confidence":0.73,"stored_label":"account","label_source":"human"}
+{"id":"d-0195","ts":"2026-10-19T22:38:00Z","input":"两步验证的备用码丢了（工单 #1394）","predicted":"account","confidence":0.72,"stored_label":"account","label_source":"model"}
+{"id":"d-0196","ts":"2026-10-19T22:45:00Z","input":"客户说发票金额对不上，要求重开一张（工单 #1395）","predicted":"billing","confidence":0.89,"stored_label":"billing","label_source":"model"}
+{"id":"d-0197","ts":"2026-10-19T22:52:00Z","input":"低价代开发票，当天出票（工单 #1396）","predicted":"spam","confidence":0.64,"stored_label":"spam","label_source":"model"}
+{"id":"d-0198","ts":"2026-10-19T22:59:00Z","input":"账单显示升级了套餐但我没点过（工单 #1397）","predicted":"billing","confidence":0.65,"stored_label":"billing","label_source":"model"}
+{"id":"d-0199","ts":"2026-10-19T23:06:00Z","input":"想把月付改成按年付，差价怎么算（工单 #1398）","predicted":"billing","confidence":0.7,"stored_label":"billing","label_source":"model"}
+{"id":"d-0200","ts":"2026-10-19T23:13:00Z","input":"合作吗？我们有 10 万粉丝（工单 #1399）","predicted":"refund","confidence":0.55,"stored_label":"refund","label_source":"model"}
